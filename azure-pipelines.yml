@@ -38,3 +38,7 @@ steps:
     pathtoPublish: $(Build.ArtifactStagingDirectory)
     artifactName: MyBuildOutputs
 
+- task: PublishPipelineArtifact@0
+  inputs:
+    targetPath: $(Build.ArtifactStagingDirectory)
+    artifactName: MyBuildOutputs2
