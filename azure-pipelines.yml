@@ -26,6 +26,4 @@ steps:
 #- task: NuGetCommand@2
 #  inputs:
 #    restoreSolution: '$(solution)'
-
-steps:
 - script: dotnet restore && dotnet msbuild ConsoleApp5.sln /v:m /clp:ShowtimeStamp /flp:LogFile=msbuild.normal;Verbosity=normal /flp1:Summary;Verbosity=minimal;LogFile=msbuild.sum /flp2:warningsonly;logfile=msbuild.wrn /flp3:errorsonly;logfile=msbuild.err
