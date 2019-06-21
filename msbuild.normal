@@ -1,0 +1,25 @@
+Build started 6/21/2019 5:44:55 PM.
+     1>Project "C:\Users\eriwan.FAREAST\source\repos\ConsoleApp5\ConsoleApp5.sln" on node 1 (default targets).
+     1>ValidateSolutionConfiguration:
+         Building solution configuration "Debug|Any CPU".
+     1>Project "C:\Users\eriwan.FAREAST\source\repos\ConsoleApp5\ConsoleApp5.sln" (1) is building "C:\Users\eriwan.FAREAST\source\repos\ConsoleApp5\ConsoleApp5\ConsoleApp5.csproj" (2) on node 1 (default targets).
+     2>GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       CoreGenerateAssemblyInfo:
+       Skipping target "CoreGenerateAssemblyInfo" because all output files are up-to-date with respect to the input files.
+       CoreCompile:
+       Skipping target "CoreCompile" because all output files are up-to-date with respect to the input files.
+       GenerateBuildDependencyFile:
+       Skipping target "GenerateBuildDependencyFile" because all output files are up-to-date with respect to the input files.
+       GenerateBuildRuntimeConfigurationFiles:
+       Skipping target "GenerateBuildRuntimeConfigurationFiles" because all output files are up-to-date with respect to the input files.
+       CopyFilesToOutputDirectory:
+         ConsoleApp5 -> C:\Users\eriwan.FAREAST\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.2\ConsoleApp5.dll
+     2>Done Building Project "C:\Users\eriwan.FAREAST\source\repos\ConsoleApp5\ConsoleApp5\ConsoleApp5.csproj" (default targets).
+     1>Done Building Project "C:\Users\eriwan.FAREAST\source\repos\ConsoleApp5\ConsoleApp5.sln" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.88
